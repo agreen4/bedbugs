@@ -13,6 +13,7 @@ This project is associated with the SESYNC Pursuit "The Sociospatial Ecology of 
 - Claudia Arevalo
 - Ian Carroll, SESYNC [(icarroll@sesync.org)](mailto:icarroll@sesync.org)
 - Andrew Greenlee, University of Illinois at Urbana Champaign [(agreen4@illinois.edu)](mailto:agreen4@illinois.edu)
+- Kate Hacker, University of Pennsylvania [(Kathryn.Hacker@pennmedicine.upenn.edu)](Kathryn.Hacker@pennmedicine.upenn.edu)
 
 
 
