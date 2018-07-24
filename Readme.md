@@ -9,4 +9,9 @@ This project is associated with the SESYNC Pursuit "The Sociospatial Ecology of 
 
 #Collaborators
 - Andrew Greenlee
+- Ian Carroll<<<<<<< HEAD
 - Ian Carroll
+=======
+- Ian Carrol 
+- Claudia Arevalo
+>>>>>>> 2afe112d971e32fc1b227ad8cc246ae7ec24a2a7
