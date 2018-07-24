@@ -8,10 +8,9 @@ This project is associated with the SESYNC Pursuit "The Sociospatial Ecology of 
 - (maybe) develop predicted probabilities of future clusters of bedbug infestations based upon certain criteria
 
 #Collaborators
-- Andrew Greenlee
-- Ian Carroll<<<<<<< HEAD
-- Ian Carroll
-=======
-- Ian Carrol 
 - Claudia Arevalo
->>>>>>> 2afe112d971e32fc1b227ad8cc246ae7ec24a2a7
+- Ian Carroll (SESYNC)
+- Andrew Greenlee, University of Illinois at Urbana Champaign [(agreen4@illinois.edu)](mailto:agreen4@illinois.edu)
+
+
+
