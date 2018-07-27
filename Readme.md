@@ -10,14 +10,14 @@ This project is associated with the SESYNC Pursuit "The Sociospatial Ecology of 
 
 ***
 
-## July Project Goals
+## Summer Institute Goals
 * Import public database of municipal code violations associated with bedbugs (public data are available via municipal APIs)
 * Assess the seasonality of bedbug complaints
-* Develop a mapping application that allows for the querying and spatial visualization of violations using Shiny
+* Develop a mapping application that allows for the querying and spatial visualization of violations using ```Shiny```
 * Add to mapping and analytical outputs demographic information drawn from Census and American Community Survey data
 * (maybe) develop predicted probabilities of future clusters of bedbug infestations based upon certain criteria
 
-## July Project Progress
+## Summer Institute Progress
 * **Import public database of municipal code violations associated with bedbugs (public data are available via municipal APIs)**
 
     + We were able to use the ```RSocrata``` package to programmatically download code violation data from the Chicago and New York City public data APIs. This could eventually be automatically updated by running a recurring download call (every week?) that queries only new violations posted after the previous update. Right now we are donwloading all code violations, which result in a lot of data, but we might begin to query only violations pretaining to pests.
